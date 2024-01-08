@@ -3,10 +3,10 @@
 This is a simple Flask app that allows users to create, view, update, delete, share notes. It also allows to query notes based on keywords.
 It implements jwt based authentication for using any APIs. It also implements basic rate limiting and api throttling to handle high traffic.
 
-##Database Used
+## Database Used
   MySQL
 
-##Framework
+## Framework
   Flask
 
 ## Setup 
